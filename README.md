@@ -7,4 +7,4 @@ MBA Admission Prediction using Logistic Regression | Generative AI &amp; DS Proj
 3. **Model Code** → Inside notebook.ipynb (cells 4–6)
 4. **Charts & Insights** → See notebook section 5
 5. **Summary Slides (PDF)** → [View/Download](MBA_Admission_Slides.pdf)
-6. **Live Demo** → [Streamlit App](https://your-streamlit-link.streamlit.app)
+6. **Live Demo** → [Streamlit App]((https://admissionpredictor1.streamlit.app/))
